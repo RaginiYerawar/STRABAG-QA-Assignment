@@ -1,0 +1,4 @@
+{
+	"expectedSuccessMessage" : "Login Successful",
+	"expectedErrorMessage" : "Invalid login\nand/or password"
+}
