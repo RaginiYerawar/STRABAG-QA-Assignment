@@ -6,6 +6,7 @@
       <class name="com.qa.tests.LoginPageTest">
         <methods>
           <include name="setUp"/>
+          <include name="verifyErrorMessage"/>
           <include name="verifySuccessMessage"/>
           <include name="tearDown"/>
         </methods>
