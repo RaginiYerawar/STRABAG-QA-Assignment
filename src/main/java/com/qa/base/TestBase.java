@@ -36,7 +36,7 @@ public class TestBase {
 			System.setProperty("webdriver.chrome.driver", (System.getProperty("user.dir") + "/chromedriver.exe"));
 			driver = new ChromeDriver();
 		} else if (browserName.equals("FF")) {
-			System.setProperty("webdriver.chrome.driver", (System.getProperty("user.dir") + "/geckodriver.exe"));
+			System.setProperty("webdriver.gecko.driver", (System.getProperty("user.dir") + "/geckodriver.exe"));
 			driver = new FirefoxDriver();
 		}
 
