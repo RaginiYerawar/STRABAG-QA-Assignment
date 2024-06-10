@@ -19,7 +19,7 @@ This repository contains tests for login page.
 
     Open the project in your preferred IDE (e.g., Eclipse).
 
-    Run the tests using java runner class created at location src/test/java/com/qa/tests/TestRunner.java
+    Run the tests using java runner class created at location STRABAG-QA-Assignment/blob/master/src/test/java/com/qa/tests/TestRunner.java
     OR testNG runner (if you already have in your machine)
 
 
